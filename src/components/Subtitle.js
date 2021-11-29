@@ -4,7 +4,7 @@ function Subtitle(){
     return (
         <div class="subtitle-image" id="subtitle-image">
         <div class="subtitle-separator"></div>
-            <h2 class="subtitle">Apps made with care.</h2>
+            <h2 class="subtitle">Full Stack Developer</h2>
         </div>
     );
   }
